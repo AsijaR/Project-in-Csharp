@@ -1,0 +1,7 @@
+C:\Users\Asija\source\repos\Bankomat\Bankomat\bin\Debug\Bankomat.exe.config
+C:\Users\Asija\source\repos\Bankomat\Bankomat\bin\Debug\Bankomat.exe
+C:\Users\Asija\source\repos\Bankomat\Bankomat\bin\Debug\Bankomat.pdb
+C:\Users\Asija\source\repos\Bankomat\Bankomat\obj\Debug\Bankomat.csprojAssemblyReference.cache
+C:\Users\Asija\source\repos\Bankomat\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+C:\Users\Asija\source\repos\Bankomat\Bankomat\obj\Debug\Bankomat.exe
+C:\Users\Asija\source\repos\Bankomat\Bankomat\obj\Debug\Bankomat.pdb
